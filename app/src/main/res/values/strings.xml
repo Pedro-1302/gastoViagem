@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Gasto Viagem</string>
+    <string name="title">Gasto Viagem</string>
+    <string name="distance">Distância</string>
+    <string name="kmTotal">Total em Quilometros</string>
+    <string name="price">Preço</string>
+    <string name="pricePerLiter">Preço por Litro</string>
+    <string name="autonomy">Autonomia do Veiculo</string>
+    <string name="kmPerLiter">Quilometro por Litro</string>
+    <string name="totalSpend">Gasto Total</string>
+    <string name="total">0</string>
+    <string name="calculate">Calcular</string>
+    <string name="home_tittle_text">Escolha uma Opção</string>
+    <string name="result_am1">R$</string>
+    <string name="some_fuel">Alcool ou Gasolina?</string>
+    <string name="fuel_expense">Gasto Viagem</string>
+    <string name="tittle">Qual combustivel compensa mais?</string>
+    <string name="hint1">Preço da Gasolina</string>
+    <string name="hint2">Preço do Alcool</string>
+    <string name="result_second_main">Compensa colocar</string>
+    <string name="howItWorksString">Como Funciona?</string>
+    <string name="aboutDeveloper">Sobre o Desenvolvedor</string>
+    <string name="description">Para saber qual combustivel compensa mais, basta dividir o preço do litro do álcool pelo da gasolina. Se o resultado for inferior a 0.7, é recomendavel utilizar Alcool. Se for maior que 0.7, então Gasolina</string>
+    <string name="close">Sair</string>
+
+
+</resources>
